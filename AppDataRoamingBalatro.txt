@@ -1,4 +1,0 @@
-cd AppData\Roaming\Balatro
-git add .
-git commit -m "bruh"
-git push
