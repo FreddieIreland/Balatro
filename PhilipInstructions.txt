@@ -1,4 +1,3 @@
-cd AppData\Roaming\Balatro
-git add .
-git commit -m "bruh"
-git push
+cd AppData\Roaming\Balatro && git add . && git commit -m "another successful run" && git push
+
+cd AppData\Roaming\Balatro && git pull
